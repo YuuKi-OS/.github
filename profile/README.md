@@ -296,7 +296,7 @@ Yuuki belongs to the community. Whether you contribute code, share ideas, report
 &nbsp;
 ![Training Steps](https://img.shields.io/badge/Steps-11900%2F37500-f472b6?style=for-the-badge)
 &nbsp;
-![Progress](https://img.shields.io/badge/Progress-31.73%%25-f472b6?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-31.73%25-f472b6?style=for-the-badge)
 
 <br>
 
