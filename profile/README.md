@@ -270,7 +270,7 @@ The NxE line will introduce larger models, partial proprietary architecture, and
 | Quantization | QLoRA 4-bit during training |
 | Adapters | LoRA / LoRA+ |
 | Attention | Flash Attention 2 (OwO NxG) |
-| Hardware | Google Colab Pro (A100 / H100) |
+| Hardware | MacBook pro|
 | Format | SafeTensors (merged) + GGUF (community) |
 
 ### Inference
