@@ -17,7 +17,7 @@
 &nbsp;
 [![Website](https://img.shields.io/badge/Website-opceanai.com-000000?style=for-the-badge)](https://opceanai.com)
 &nbsp;
-[![Contact](https://img.shields.io/badge/Contact-contacto@opceanai.com-d63384?style=for-the-badge)](mailto:contacto@opceanai.com)
+[![Contact](https://img.shields.io/badge/Contact-contacto@opceanai.com-d63384?style=for-the-badge)](mailto:contact@opceanai.com)
 
 <br>
 
